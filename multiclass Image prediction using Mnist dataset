@@ -1,1 +1,8 @@
 Created a Deep Learning model using ANN to identify the one digit number in the given image dataset
+The dataset used is MNIST dataset.
+The MNIST dataset is a popular dataset used for training and testing in the field of machine learning for handwritten digit recognition. 
+The MINST dataset stands for "Modified National Institute of Standards and Technology". 
+The dataset contains a large collection of handwritten digits that is commonly used for training various image processing systems. 
+The dataset was created by re-mixing samples from NIST's original datasets, which were taken from American Census Bureau employees and high school students. 
+It is designed to help scientists develop and test machine learning algorithms in pattern recognition and machine learning. 
+It contains 60,000 training images and 10,000 testing images, each of which is a grayscale image of size 28x28 pixels.
