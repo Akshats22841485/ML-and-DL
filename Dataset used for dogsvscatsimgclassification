@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/salader/dogs-vs-cats
+This kaggle dataset is been used which gives us almost all the data about dogs and cats which are necessary for our CNN model
+The model is giving us a validation accuracy of 86.88% which seems to be fine but can be more tuned up with some data augmentation and regularization
